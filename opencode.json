@@ -1,0 +1,15 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "servers": {
+      "fortyguard-mcp": {
+        "type": "remote",
+        "url": "https://tos-mcp.app.fortyguard.com/mcp",
+        "oauth": false,
+        "headers": {
+          "Authorization": "Bearer {env:FORTYGUARD_API_KEY}"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,4 @@
+$ python scripts/01_first_call.py
+
+200
+Task submitted. Activity ID: 53da7699-4872-4468-b274-ee6e57110c14
