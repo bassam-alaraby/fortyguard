@@ -78,4 +78,4 @@ Logging rules:
 
 The evaluation log should be written to:
 
-[`03-mcp-log.md`](notes/03-mcp-log.md)
+[`03-mcp-log.md`](03-mcp-log.md)
